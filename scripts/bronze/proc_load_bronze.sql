@@ -39,18 +39,6 @@ CSV File Location:
 
     C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/
 
-
-Parameters:
-
-    None.
-
-    This stored procedure does not accept any parameters or return any values.
-
-
-Usage Example:
-
-    CALL bronze.load_bronze();
-
 */
 
 
